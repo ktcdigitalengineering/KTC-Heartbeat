@@ -1,0 +1,20 @@
+# Secrets
+.env
+token.json
+
+# Exported project data and logs (contain names, emails, companies)
+Output/
+output/
+logs/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
